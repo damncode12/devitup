@@ -9,3 +9,9 @@ The final tree structure of the folders must be like:
 Further then open a PR with your new project pushed in this structure discussed above.
 
 The contributor.txt must be compliant with the Contribution guidelines mentioned in the readme file on the main repo.
+
+CONTRIBUTOR.txt file format:<br>
+Contributor Name: <br>
+Isuue ID:<br>
+ISSUE Description (in one line):<br>
+Solution Description (in one line):<br>
