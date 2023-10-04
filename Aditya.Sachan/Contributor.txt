@@ -1,4 +1,0 @@
-Actual Name: Aditya Sachan
-Username: Sachan-aditya
-Issue ID: 6
-Changes Summary (in one sentence): Made todolist firebase intergerated app using flutter
