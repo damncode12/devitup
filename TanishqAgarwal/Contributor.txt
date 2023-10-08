@@ -1,0 +1,4 @@
+Name: Tanishq Agarwal
+Email: tanishqoct11@gmail.com
+Github Username: 047pegasus
+Work Done: CustomTkinter App with Matplotlib and Numpy.
