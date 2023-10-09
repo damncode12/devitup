@@ -1,0 +1,4 @@
+Contributor Name: Jatin
+Isuue ID: #18
+ISSUE Description (in one line): A music application using react!
+Solution Description (in one line): Created an music application with the name geet-music. Its  like spotfy blend in youtube.
