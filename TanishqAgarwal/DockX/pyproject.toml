@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "dockx"
+version = "0.1.0"
+description = ""
+authors = ["047pegasus <tanishqoct11@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+tk = "^0.1.0"
+customtkinter = "^5.2.0"
+numpy = "^1.25.2"
+matplotlib = "^3.7.2"
+pillow = "^10.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

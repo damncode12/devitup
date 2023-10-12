@@ -1,0 +1,6 @@
+Name: Tanishq Agarwal
+Email: tanishqoct11@gmail.com
+Github Username: 047pegasus
+Work Done: 1.) CustomTkinter App with Matplotlib and Numpy.
+	   2.) Added a Social Media app in Svelte with a PocketBase Integration
+	   3.) Added a demo REST API in Go with Postgres as SQL-DB.
