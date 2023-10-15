@@ -1,0 +1,412 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+    background-color: rgb(236, 232, 232);
+    color: black;
+}
+#logo{
+    background-image: url("Flipkart-logo.png");
+    background-size: contain;
+    background-color: white;
+    height: 75px;
+    width: 130px;
+}
+#ho{
+    width:100%;
+    position: fixed;
+}
+.container1{
+    display:flex;
+    background-color: white;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#searchbar{
+    width: 400px;
+    border-radius: 10%;
+    height: 25px;
+    margin-top:20px;
+    padding: 15px;
+    font-size: 12px;
+}
+.sps{
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+.container2{
+    display:flex;
+    background-color: white;
+    justify-content: space-evenly;
+    align-items: center;
+    height:100px;
+    margin-top: 0px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+#qw{
+    padding-top: 80px;
+    height: 5px;
+    background-color: rgb(236, 232, 232);
+}
+#logo1{
+    border-radius: 50%;
+    background-image: url("pic2.webp");
+    background-size: cover;
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+.mysql{
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
+.hed{
+    background-color: white;
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
+#logo2{
+    border-radius: 50%;
+    background-image: url("pic3.webp");
+    background-size: cover;
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+#logo3{
+    border-radius: 50%;
+    background-image: url("pic5.webp");
+    background-size: cover;
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+#logo4{
+    border-radius: 50%;
+    background-image: url("pic6.webp");
+    background-size: cover;
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+#logo5{
+    border-radius: 50%;
+    background-image: url("pic7.webp");
+    background-size: cover;
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+#logo6{
+    border-radius: 50%;
+    background-image: url("pic8.webp");
+    background-size: cover;
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+#logo7{
+    border-radius: 50%;
+    background-image: url("pic9.webp");
+    background-size: cover;
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+#logo8{
+    border-radius: 50%;
+    background-image: url("pic10.webp");
+    background-size: cover;
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+#mp{
+    background-image: url("pic11.webp");
+    background-size: cover;
+    height: 250px;
+    width: 100%;
+    display:flex;
+    text-align: center;
+}
+section{
+    margin-top: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+    
+}
+#up{
+    background-color: white;
+    height: 70px;
+    width:50px;
+    margin-top: 90px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#up i{
+    background-color: white;
+}
+#search{
+    background-color: white;
+    height: 65px;
+}
+#search i{
+    background-color: white;
+    height: 30px;
+    text-align: center;
+}
+#jp{
+    background-color: white;
+    height: 70px;
+    width:50px;
+    margin-top: 90px;
+    margin-left: 1280px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#jp i{
+    background-color: white;
+}
+#kp{
+    margin-top: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.sps i{
+    background-color: white;
+    height: 21px;
+
+}
+#uk{
+    background-image: url("pic12.webp");
+    background-size: cover;
+    height: 120px;
+    width: 100%; 
+}
+input{
+    background-color: white;
+    color:black;
+}
+
+.chandrapal{
+    background-color: white;
+    height: 270px;
+   width: 1250;
+   margin: 12px;
+   margin-top: 0px;
+   font-size: 25px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 100px;
+    display: flex;
+}
+#singh{
+    background-color: white;
+    height:230px ;
+    width: 180px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#umath{
+    background-color: green;
+    height:180px ;
+    width: 175px;
+    
+}
+#data{
+    background-color: white;
+    text-align: center;
+    font-size: 20px;
+}
+#baba{
+    background-color: white;
+    text-align: center;
+}
+#m{
+    background-color: white;
+    margin: 12px;
+    margin-bottom: 0px;
+    color: black;
+    font-size: 25px;
+    padding: 10px;
+}
+#umath1{
+    background-image: url("pic15.jpeg");
+    background-size: cover;
+    height:180px ;
+    width: 175px;
+}
+#umath2{
+    background-image: url("pic16.jpeg");
+    background-size: cover;
+    height:180px ;
+    width: 175px;
+}
+#umath3{
+    background-image: url("pic17.jpeg");
+    background-size: cover;
+    height:180px ;
+    width: 175px;
+}
+#umath4{
+    background-image: url("pic18.jpeg");
+    background-size: cover;
+    height:180px ;
+    width: 175px;
+}
+#umath5{
+    background-image: url("pic19.jpeg");
+    background-size: cover;
+    height:180px ;
+    width: 175px;
+}
+#umath6{
+    background-image: url("pic20.jpeg");
+    background-size: cover;
+    height:180px ;
+    width: 175px;
+}
+.chandrapal1{
+    background-color: white;
+    display: flex;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.p1{
+    background-image: url(pic21.webp);
+    background-size: cover;
+    height: 250px;
+    width: 440px;
+}
+.p2{
+    background-image: url(pic22.webp);
+    background-size: cover;
+    height: 250px;
+    width: 440px;
+}
+.p3{
+    background-image: url(pic23.webp);
+    background-size: cover;
+    height: 250px;
+    width: 440px;
+}
+#b{
+    margin-left: 12px;
+    margin-right: 12px;
+    background-image: url("pic24.webp");
+    background-size: cover;
+    height: 200px;
+    width: 1250;
+}
+input:hover{
+    background-color: rgb(236, 232, 232);
+    color:black;
+    border: none;
+    font-size: 15px;
+}
+#logo1:hover{
+    transform: scale(1.2);
+}
+
+#logo2:hover{
+    transform: scale(1.2);
+}
+#logo3:hover{
+    transform: scale(1.2);
+}
+#logo4:hover{
+    transform: scale(1.2);
+}
+#logo5:hover{
+    transform: scale(1.2);
+}
+#logo6:hover{
+    transform: scale(1.2);
+}
+#logo7:hover{
+    transform: scale(1.2);
+}
+#logo8:hover{
+    transform: scale(1.2);
+}
+.sps:hover{
+    text-decoration: underline;
+    border-radius: 10%;
+    background-color: rgb(236, 232, 232);
+}
+#umath1:hover{
+    transform: scale(1.1);
+    background-color: aliceblue;
+    border-radius: 8%;
+}
+#umath2:hover{
+    transform: scale(1.1);
+    background-color: aliceblue;
+    border-radius: 8%;
+}
+#umath3:hover{
+    transform: scale(1.1);
+    background-color: aliceblue;
+    border-radius: 8%;
+}
+#umath4:hover{
+    transform: scale(1.1);
+    background-color: aliceblue;
+    border-radius: 8%;
+}
+#umath5:hover{
+    transform: scale(1.1);
+    background-color: aliceblue;
+    border-radius: 8%;
+}
+#umath6:hover{
+    transform: scale(1.1);
+    background-color: aliceblue;
+    border-radius: 8%;
+}
+
+#about{
+    background-color: black;
+    color: white;
+}
+.container3{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+#no{
+    background-color: black;
+    color: rgb(158, 127, 127);
+}
+#ma{
+    background-color: black;color: rgb(158, 127, 127);
+    border-top: solid  rgb(158, 127, 127) 2px;
+    height: 50px;
+    width: 1250;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+#pa{
+    background-color: rgb(236, 232, 232);
+    height: 50px;
+}
+#ma i{
+    background-color:black;
+    color: aliceblue;
+}
