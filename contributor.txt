@@ -1,4 +1,0 @@
-Actual Name: Adarsh Singh
-Username: adarsh1219
-Issue ID: #30
-Changes Summary (in one sentence): Calculator using Svelte

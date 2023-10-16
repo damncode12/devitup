@@ -1,4 +1,0 @@
-Contributor Name: Chandrapal Singh
-Isuue ID: #29
-ISSUE Description (in one line): Making of Flipkart's frontend clone.
-Solution Description (in one line):Flipkart's frontend clone using html and vanilla css.
