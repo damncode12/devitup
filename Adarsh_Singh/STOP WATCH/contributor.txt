@@ -1,0 +1,5 @@
+Contributor Name:ADARSH SINGH
+Username:adarsh1219
+Isuue ID:#23
+ISSUE Description (in one line):  TO CREATE A STOP WATCH
+Solution Description (in one line): Made a stopwatch by using html, css and javascript
