@@ -1,5 +1,0 @@
-
-Contributor Name: Utsav Rai
-Isuue ID:#40
-ISSUE Description (in one line): Create a Face Recognition Attendance System!
-Solution Description (in one line): This system provides a conducive environment for disabled and medically vulnerable students.
