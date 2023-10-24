@@ -1,0 +1,4 @@
+Actual Name:ADARSH SINGH
+Username:adarsh1219
+Issue ID:#27
+Changes Summary (in one sentence): Basic calculator using svelte
